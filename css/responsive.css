@@ -1,0 +1,142 @@
+/* ========================================
+   Responsive Design
+======================================== */
+
+/* Large Desktops */
+@media (min-width: 1400px) {
+    .cotent-home h1 {
+        font-size: 4.5rem;
+    }
+}
+
+/* Tablets & Small Desktops */
+@media (max-width: 991px) {
+    .my-home {
+        padding-top: 6rem;
+    }
+    
+    .cotent-home h1 {
+        font-size: 3rem;
+    }
+    
+    .navbar-nav {
+        padding: 1rem 0;
+    }
+    
+    .nav-item {
+        margin: 0.5rem 0;
+    }
+}
+
+/* Mobile Devices */
+@media (max-width: 768px) {
+	.my-home {
+        padding-top: 5rem;
+    }
+    
+    .cotent-home h4 {
+        font-size: 1.25rem;
+    }
+    
+    .cotent-home h1 {
+			font-size: 2.5rem;
+		}
+}
+  
+
+/* ========================================
+   Responsive - Experience Section
+======================================== */
+
+/* Tablets */
+@media (max-width: 991px) {
+    .experience {
+        padding: 4rem 1rem;
+    }
+    
+    .stat-number {
+        font-size: 3.5rem;
+    }
+    
+    .stat-text {
+        font-size: 0.95rem;
+        text-align: center;
+    }
+}
+
+/* Mobile Devices */
+@media (max-width: 767px) {
+    .experience {
+        padding: 3rem 1rem;
+    }
+    
+    .experience-item {
+        padding: 1rem 0.5rem;
+    }
+    
+    .stat-number {
+        font-size: 2.5rem;
+        margin-bottom: 0.5rem;
+    }
+    
+    .stat-text {
+        font-size: 0.85rem;
+        text-align: center;
+        line-height: 1.4;
+    }
+}
+
+/* Small Mobile */
+@media (max-width: 480px) {
+    .stat-number {
+        font-size: 2rem;
+    }
+    
+    .stat-text {
+        font-size: 0.8rem;
+    }
+    
+    .experience {
+        padding: 2.5rem 0.5rem;
+    }
+}
+
+/* Large Desktops */
+@media (min-width: 1400px) {
+    .experience {
+        padding: 6rem 1rem;
+    }
+    
+    .stat-number {
+        font-size: 4.5rem;
+    }
+    
+    .stat-text {
+        font-size: 1.1rem;
+    }
+}
+
+/* Medium Desktops & Tablets Landscape */
+@media (min-width: 768px) and (max-width: 991px) {
+    .stat-text {
+        text-align: left;
+    }
+}
+
+
+
+/* responsive sizes */
+@media (max-width: 991px) {
+  .gerold-title { font-size: 2.6rem; }
+  .work-img { height: 260px; }
+  .work-overlay { width: calc(100% - 1.2rem); }
+}
+
+@media (max-width: 576px) {
+  .gerold-title { font-size: 2.2rem; }
+  .work-img { height: 180px; }
+  .gerold-subtitle { width: 95% !important; }
+  .work-overlay { bottom: -70px; }
+  .work-card:hover { transform: none; box-shadow: none; }
+  .work-card:hover .work-overlay { bottom: 0; opacity: 1; }
+}
