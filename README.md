@@ -1,4 +1,4 @@
-🌐 Portfolio Website
+🌐 Gerold Portfolio Website
 
 A fully responsive personal portfolio website built using HTML, CSS, and Bootstrap.
 The website showcases my work, skills, and contact information in a clean and modern design.
@@ -50,20 +50,20 @@ Google Fonts
 📸 Live Demo
 
 👉 Live Preview: Add your GitHub Pages link here
-👉 Example: https://username.github.io/portfolio/
+👉 Example: [https://username.github.io/portfolio/](https://mo-yes.github.io/Gerold-Portfolio/)
 
 📁 Repository
 
 👉 GitHub Repo: Add your project repo link here
-👉 Example: https://github.com/username/portfolio
+👉 Example: [https://github.com/username/portfolio](https://github.com/mo-yes/Gerold-Portfolio)
 
 📞 Contact Me
 
 If you want to reach out, feel free to contact me:
 
-LinkedIn: Add your LinkedIn link
+LinkedIn: www.linkedin.com/in/mohamed-yasser-dev
 
-Email: your-email@gmail.com
+Email: mohamed-yasser-dev1@gmail.com
 
 📄 License
 
