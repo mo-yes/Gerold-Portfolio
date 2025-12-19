@@ -1,41 +1,53 @@
-🌐 Gerold Portfolio Website
 
-A fully responsive personal portfolio website built using HTML, CSS, and Bootstrap.
-The website showcases my work, skills, and contact information in a clean and modern design.
+🚀 DevFolio Template
 
-🚀 Features
+DevFolio Template is a modern, fully responsive personal portfolio website designed to showcase your skills, projects, and experience in a clean and professional way.
+Built using HTML, CSS, and Bootstrap, with a strong focus on UI/UX, responsiveness, and clean code structure.
 
-⚡ Fully responsive on all devices
+🌐 Live Demo
+🔗 https://mo-yes.github.io/DevFolio/#hero
 
-🎨 Modern and clean UI design
+✨ Features
 
-🧭 Smooth navigation
+📱 Fully responsive on all devices
 
-💬 Testimonials section
+🎨 Modern and clean user interface
 
-🛠️ Organized and reusable code
+⚡ Smooth hover effects and CSS transitions
 
-📬 Contact section with working form structure
+🖼️ Portfolio section with CSS-only Lightbox (No JavaScript)
 
-🌑 Dark mode ready (optional)
+🧩 Reusable and well-structured components
+
+🧭 Bootstrap Grid System
+
+🌈 Gradient overlays & parallax background sections
+
+📬 Contact section layout
+
+🧠 Clean, readable, and junior-friendly code
 
 📂 Sections Included
 
-Home
+Hero Section
 
-About Me
-
-Skills
+About
 
 Services
 
-Projects / Portfolio
+Skills
 
-Testimonials
+Portfolio
 
-Contact Me
+Testimonials (Carousel)
 
-🧰 Technologies Used
+Blog
+
+Contact
+
+Footer
+
+🛠️ Built With
 
 HTML5
 
@@ -43,28 +55,46 @@ CSS3
 
 Bootstrap 5
 
-Font Awesome Icons
+Font Awesome
 
 Google Fonts
 
-📸 Live Demo
+📁 Project Structure
+DevFolio-Template/
 
-👉 Live Preview: Add your GitHub Pages link here
-👉 Example: [https://username.github.io/portfolio/](https://mo-yes.github.io/Gerold-Portfolio/)
+🚀 Getting Started
 
-📁 Repository
+Clone the repository:
 
-👉 GitHub Repo: Add your project repo link here
-👉 Example: [https://github.com/username/portfolio](https://github.com/mo-yes/Gerold-Portfolio)
+git clone https://github.com/mo-yes/DevFolio.git
 
-📞 Contact Me
 
-If you want to reach out, feel free to contact me:
+Then simply open index.html in your browser.
 
-LinkedIn: www.linkedin.com/in/mohamed-yasser-dev
+🎯 Customization
 
-Email: mohamed-yasser-dev1@gmail.com
+🎨 Update colors from the main CSS styles
+
+🖼️ Replace images inside the /images folder
+
+✏️ Edit content directly in index.html
+
+📱 Adjust responsive behavior inside responsive-animations.css
+
+👤 Author
+
+Mohamed Yasser
+💼 Front-End Developer
+
+GitHub: https://github.com/mo-yes
+
+LinkedIn: https://www.linkedin.com/in/mohamed-yasser-dev
 
 📄 License
 
-This project is free to use and open-source.
+This project is free to use for personal and educational purposes.
+You are free to modify and improve it.
+
+❤️ Acknowledgments
+
+Inspired by modern portfolio designs and best practices in front-end development.
